@@ -3,4 +3,4 @@ This web calculator perform basic mathematical calculation, very simple and was 
 
 This app is still subject to modification, as some other complex mathematical functionality will be added in later time.
 
-Pls feel free to check the code behind the scene and if u like what u see, do hit the star button..
+Please feel free to check the code behind the scenes and if you like what you see, do hit the star button...
